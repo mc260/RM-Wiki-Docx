@@ -102,8 +102,8 @@ python -m wiki2docx --json-file data.json --output 输出.docx
 
 ```json
 {
-  "wiki_url": "https://bbs.robomaster.com/wiki/46368458",
-  "title": "RMUC2026 广州航海学院 ICBK破冰船 赛季总结文档",
+  "wiki_url": "https://bbs.robomaster.com/wiki/XXXXXXXX",
+  "title": "RMUC2026 广州航海学院 ICBK破冰船 XXXXXXXX",
   "subtitle": "广州航海学院  ICBK破冰船 战队",
   "output": "output.docx",
   "font": "微软雅黑"
